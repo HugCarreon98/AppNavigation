@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "705883956582",
+    "project_id": "appnavigation-49abd",
+    "storage_bucket": "appnavigation-49abd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705883956582:android:f6994d5a60af0fc6ed94a7",
+        "android_client_info": {
+          "package_name": "com.example.appnavigation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYB9jECYVpq1E3SMUOztyDPYgNg6ita7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

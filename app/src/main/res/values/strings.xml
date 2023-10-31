@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AppNavigation</string>
+
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="forgotPassword">¿Olvidaste tu contraseña?</string>
+    <string name="login">Iniciar sesion</string>
+    <string name="resetPassword">Enviar Contraseña</string>
+    <string name="invitation">¿Hasta que nivel eres capaz de llegar?</string>
+    <string name="accept">He leído y acepto los</string>
+    <string name="terms">terminos de uso.</string>
+    <string name="empty_email">Introduce un email</string>
+    <string name="invalid_email">Email incorrecto</string>
+
+    <string name="google">GOOGLE</string>
+
+    <string name="bar_title">App Navigation</string>
+
+    <string name="menu_running">Running</string>
+    <string name="menu_record">Historial</string>
+    <string name="menu_becamepremium">Hazte Premium</string>
+    <string name="menu_clearpreferences">Restablecer Ajustes</string>
+    <string name="menu_signout">Cerrar Sesión</string>
+    <string name="menu_offercourse">Soy un anuncio</string>
+
+    <string name="level">Nivel</string>
+
+
+
+
+
+</resources>
